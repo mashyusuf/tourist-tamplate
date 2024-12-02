@@ -1,11 +1,9 @@
-import Image from "next/image";
-import Container from "./componenets/container/Container";
-import NavBAr from "./HomePage/NavBAr";
+
+import NavBar from "./HomePage/NavBar";
+
 
 export default function Home() {
   return (
-    <Container>
-      <NavBAr />
-    </Container>
+      <NavBar />
   );
 }
