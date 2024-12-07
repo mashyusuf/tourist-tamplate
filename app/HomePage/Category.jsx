@@ -10,10 +10,10 @@ export default function Category() {
         <div className='group p-5 bg-gray-200 border-2 border-white rounded-xl hover:scale-95 transform transition duration-300'>
           <Image src={assets.amazon} width={96} height={96} alt='amazon' className='w-full h-full object-contain' />
         </div>
-        <div className='group p-5 bg-gray-200 border-2 border-white rounded-xl hover:scale-95 transform transition duration-300'>
+        <div className='group p-6 bg-gray-200 border-2 border-white rounded-xl hover:scale-95 transform transition duration-300'>
           <Image src={assets.amd} width={96} height={96} alt='amd' className='w-full h-full object-contain' />
         </div>
-        <div className='group p-5 bg-gray-200 border-2 border-white rounded-xl hover:scale-95 transform transition duration-300'>
+        <div className='group p-6 bg-gray-200 border-2 border-white rounded-xl hover:scale-95 transform transition duration-300'>
           <Image src={assets.drop} width={96} height={96} alt='drop' className='w-full h-full object-contain' />
         </div>
         <div className='group p-5 bg-gray-200 border-2 border-white rounded-xl hover:scale-95 transform transition duration-300'>
