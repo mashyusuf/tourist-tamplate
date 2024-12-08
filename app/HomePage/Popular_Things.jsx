@@ -16,7 +16,7 @@ export default function Popular_Things() {
 
   return (
     <Container>
-      <div className='flex justify-between items-center mb-6 mt-10 mb-10'>
+      <div className='flex justify-between items-center  mt-10 mb-10'>
         <h1 className='text-2xl font-bold text-[#05073C]'>Popular things to do</h1>
         <p className='text-xs font-semibold text-[#05073C] cursor-pointer hover:underline'>See all</p>
       </div>
@@ -32,7 +32,7 @@ export default function Popular_Things() {
                 src={tour.image}
                 alt={tour.name}
                 fill
-                className='object-cover rounded-lg transition-transform duration-300 group-hover:scale-105'
+                className='object-cover rounded-lg transition-transform duration-300 group-hover:scale-125'
               />
             </div>
             {/* Overlay and Text */}
