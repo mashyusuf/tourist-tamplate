@@ -1,3 +1,30 @@
+# 🌍 Tourist Template Website
+
+Welcome to the **Tourist Template Website**! 🏖️ This project is a modern and visually appealing website designed to showcase tourist destinations, activities, and attractions.
+
+## 🛠️ Technologies Used
+- **Next.js**: For fast and optimized server-side rendering.
+- **shadcn**: For component styling and UI integration.
+- **DaisyUI**: Simplifying Tailwind CSS components.
+- **Tailwind CSS**: For sleek and responsive designs.
+
+## 🚀 Features
+- Stunning and user-friendly interface 🎨
+- Fully responsive design 📱
+- Easy customization for your needs ✨
+- Integration with Figma for design collaboration 🎯
+
+## 🌐 Live Demo
+Check out the live demo here: https://tourist-tamplate.vercel.app/
+
+## 🎨 Design
+Explore the design prototype on Figma: https://www.figma.com/design/ECUdTFjiIxoOnDZ2WyDwTj/100%2B-Travel-Landing-website-templates-(Community)?m=auto&t=otskWMwL3t16VOXb-6
+
+## 📂 How to Use
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
